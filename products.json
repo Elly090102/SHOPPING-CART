@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name":" Cyber-night",
+        "price": 1250,
+        "image": "image/1.jpg"
+    },
+    {
+        "id": 2,
+        "name":" OUT OF THIS WORLD EVENT",
+        "price": 1250,
+        "image": "image/2.jpg"
+    },
+    {
+        "id": 3,
+        "name":" DRESS TO IMPRESS",
+        "price": 1290,
+        "image": "image/3.jpg"
+    }
+ 
+]
